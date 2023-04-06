@@ -1,0 +1,8 @@
+网页地址：http://datachart.500.com/dlt/history/history.shtml
+
+请求地址：http://datachart.500.com/dlt/history/newinc/history.php?start=00001&end=23037
+参数：
+    开始期数：start=00001
+    结束期数：end=23037
+
+
